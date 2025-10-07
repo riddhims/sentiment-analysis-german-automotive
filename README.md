@@ -31,3 +31,18 @@ By applying NLP techniques to customer reviews, the project identifies **positiv
 ---
 
 ## 📂 Project Structure
+german-cars-sentiment/
+│
+├── data/
+│ ├── german_cars_reviews.csv # Dataset
+│
+├── notebooks/
+│ ├── sentiment_analysis.ipynb # Main analysis notebook
+│
+├── results/
+│ ├── sentiment_summary.csv
+│ ├── visualizations/
+│
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
+
